@@ -1,4 +1,4 @@
-# first
+g# first
 my first git repo
 <br>
-author-john
+author-john(sandra)
